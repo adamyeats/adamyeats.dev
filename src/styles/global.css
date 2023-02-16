@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(-45deg, #8E2DE2, #4A00E0, #8E2DE2, #4A00E0);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+  font-family: "Epilogue", sans-serif;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

@@ -1,5 +1,5 @@
 {
-	"name": "xadamy.xyz",
+	"name": "adamyeats.dev",
 	"type": "module",
 	"version": "0.0.1",
 	"scripts": {
@@ -10,6 +10,26 @@
 		"astro": "astro"
 	},
 	"dependencies": {
-		"astro": "^2.0.8"
+		"@astrojs/react": "^2.0.2",
+		"@astrojs/vercel": "^3.1.1",
+		"@fontsource/epilogue": "^4.5.11",
+		"@fortawesome/fontawesome-svg-core": "^6.3.0",
+		"@fortawesome/free-solid-svg-icons": "^6.3.0",
+		"@fortawesome/react-fontawesome": "^0.2.0",
+		"astro": "^2.0.10",
+		"normalize.css": "^8.0.1",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.0.27",
+		"@types/react-dom": "^18.0.10",
+		"prettier": "^2.8.4"
+	},
+	"lint-staged": {
+		"*.{ts,js}": "prettier --write"
+	},
+	"volta": {
+		"node": "18.14.0"
 	}
 }
