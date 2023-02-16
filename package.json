@@ -30,6 +30,6 @@
 		"*.{ts,js}": "prettier --write"
 	},
 	"volta": {
-		"node": "18.14.0"
+		"node": "18.14.1"
 	}
 }
