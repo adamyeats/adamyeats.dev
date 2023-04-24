@@ -2,6 +2,8 @@ import type React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithubSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
+import './Navigation.css';
+
 export const Navigation: React.FC = () => (
   <nav role='navigation' aria-label='Navigation' className='navigation'>
     <ul className='navigation__icons'>

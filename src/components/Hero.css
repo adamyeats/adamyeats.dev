@@ -1,0 +1,22 @@
+.hero {
+  align-items: center;
+  color: #FFFFFF;
+  display: flex;
+}
+
+.hero__container {
+  margin-left: 100px;
+}
+
+.hero__description {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.hero__name {
+  color: #34FA55;
+}
+
+.hero__title {
+  font-size: 6rem;
+}

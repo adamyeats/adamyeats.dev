@@ -1,4 +1,5 @@
 import type React from 'react';
+import './Hero.css';
 
 export const Hero: React.FC = () => (
   <section className='hero'>
