@@ -2,7 +2,9 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -52,7 +54,8 @@ p {
   padding: 0;
 }
 
-.navigation__icons, .navigation__icon {
+.navigation__icons,
+.navigation__icon {
   width: 30px;
 }
 
