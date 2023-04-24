@@ -14,6 +14,7 @@
 		"@astrojs/vercel": "^3.2.4",
 		"@fontsource/epilogue": "^4.5.11",
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
+		"@fortawesome/free-brands-svg-icons": "^6.4.0",
 		"@fortawesome/free-solid-svg-icons": "^6.4.0",
 		"@fortawesome/react-fontawesome": "^0.2.0",
 		"astro": "^2.3.0",
@@ -27,7 +28,7 @@
 		"prettier": "^2.8.8"
 	},
 	"lint-staged": {
-		"*.{ts,js}": "prettier --write"
+		"*.{ts,tsx,js}": "prettier --write"
 	},
 	"volta": {
 		"node": "18.14.1"
