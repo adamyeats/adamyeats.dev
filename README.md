@@ -2,6 +2,8 @@
 
 My personal website, built with [Astro](https://astro.build).
 
+**⚠️ NOTE:** This is a work in progress. I'm building this site in public, so you can see how I work and how I build things. At the moment, very basic things like mobile responsiveness are not implemented.
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
