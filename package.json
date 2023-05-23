@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"@astrojs/react": "^2.2.0",
-		"@astrojs/vercel": "^3.3.0",
+		"@astrojs/vercel": "^3.4.0",
 		"@fontsource/epilogue": "^5.0.0",
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
