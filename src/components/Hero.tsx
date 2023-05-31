@@ -15,7 +15,7 @@ export const Hero: React.FC = () => (
       </p>
       <p className={styles['hero__description']}>
         I currently work as a senior software engineer at{' '}
-        <span className={styles['hero__name']}>???</span>.
+        <span className={styles['hero__name']}>Grafana Labs</span>.
       </p>
       <p className={styles['hero__description']}>
         Previously I worked at Elastic, DEPT®, AppSignal and several other
