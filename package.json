@@ -14,7 +14,7 @@
 		"@astrojs/vercel": "^3.8.1",
 		"@fontsource/epilogue": "^5.0.8",
 		"@fortawesome/fontawesome-svg-core": "^6.4.2",
-		"@fortawesome/free-brands-svg-icons": "^6.4.0",
+		"@fortawesome/free-brands-svg-icons": "^6.4.2",
 		"@fortawesome/free-solid-svg-icons": "^6.4.0",
 		"@fortawesome/react-fontawesome": "^0.2.0",
 		"astro": "^2.10.14",
